@@ -57,7 +57,7 @@ I’m particularly interested in:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha18\&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anisha18)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anisha18&theme=default)
 
 ---
 
@@ -90,7 +90,7 @@ I’m particularly interested in:
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anisha18\&row=1\&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anisha18&margin-w=10&no-frame=true)
 
 ---
 
