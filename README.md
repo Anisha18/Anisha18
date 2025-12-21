@@ -60,26 +60,6 @@ I’m particularly interested in:
 
 ---
 
-## 🚀 Featured Projects
-
-<details>
-<summary><strong>📂 Click to expand</strong></summary>
-
-* **VibeMusic – Cloud-based Music Subscription Platform**
-  Full-stack web application built using **AWS EC2, S3, DynamoDB, Lambda, and API Gateway**. Implemented user authentication, subscription management, RESTful APIs, and secure media storage.
-
-* **Backend LMS – Aviation Academy (Capstone Project)**
-  Developed backend services using **Node.js, Express, and MongoDB** for a learning management system supporting course management, student onboarding, and analytics. Implemented a file-processing pipeline using **MinIO, LibreOffice, and Poppler**.
-
-* **Enterprise Data Pipelines – LTIMindtree**
-  Designed and maintained large-scale **ETL/ELT pipelines** integrating Salesforce and revenue systems using **Databricks, SparkSQL, and Delta Lake**, optimised for performance, governance, and reporting.
-
-* **Myki Ticketing System – Database Design**
-  Designed a relational database system with optimised indexing, role-based access control, and long-term storage planning for public transport fare management.
-
-</details>
-
----
 
 ## 📈 Contribution Graph
 
