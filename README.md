@@ -57,11 +57,6 @@ I'm particularly interested in:
 ![HealthKit](https://img.shields.io/badge/HealthKit-FA7343?style=flat&logo=swift&logoColor=white)
 ![WeatherKit](https://img.shields.io/badge/WeatherKit-FA7343?style=flat&logo=swift&logoColor=white)
 
-### iOS & Mobile Development
-
-- **Frameworks**: SwiftUI, WatchKit, WatchConnectivity, HealthKit, WeatherKit
-- **Tools**: Xcode, SF Symbols, Apple Human Interface Guidelines (HIG)
-
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
@@ -72,13 +67,6 @@ I'm particularly interested in:
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E1D?style=flat&logo=minio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-### Data Quality & Governance
-
-- ETL/ELT Pipeline Design & Optimization
-- Data Modelling
-- Data Quality & Governance
-- Data Lineage & Documentation
 
 ### Visualisation & Analytics Tools
 
