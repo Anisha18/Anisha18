@@ -1,6 +1,6 @@
 # Hi, I'm Anisha 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Data+Engineer;Big+Data+%7C+Cloud+%7C+AI;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Data+Engineer;iOS+Developer;Big+Data+%7C+Cloud+%7C+AI;Always+Learning)
 
 ---
 
