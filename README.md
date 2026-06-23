@@ -54,8 +54,6 @@ I'm particularly interested in:
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat&logo=html5&logoColor=white)
 ![WatchKit](https://img.shields.io/badge/WatchKit-FA7343?style=flat&logo=swift&logoColor=white)
-![HealthKit](https://img.shields.io/badge/HealthKit-FA7343?style=flat&logo=swift&logoColor=white)
-![WeatherKit](https://img.shields.io/badge/WeatherKit-FA7343?style=flat&logo=swift&logoColor=white)
 
 ### Cloud & DevOps
 
